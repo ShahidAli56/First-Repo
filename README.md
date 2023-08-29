@@ -1,5 +1,6 @@
 # First-Repo
 My First Repository
-Shahid
-Pakistan
-Version Control
+Shahid Ali
+Pakistan Rahim Yar khan
+Version Control 
+
